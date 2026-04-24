@@ -5,7 +5,7 @@
 
 <!-- Typing / Sparkly Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Apoorva+(fuzzy+robot);Astrophysics+enthusiast+chasing+the+universe;Backend+dev+%7C+APIs+%7C+C%2FC%2B%2B+%7C+Python;Quantum+mechanics+%26+Quantum+computing+intrigue+me;Sometimes+I+wonder+if+I'm+a+Boltzmann+brain;Aiming+for+a+life+among+galaxies+%26+supernovae" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Apoorva+(fuzzy+robot);Astrophysics+enthusiast+chasing+the+universe;Backend+dev+%7C+APIs+%7C+C%2FC%2B%2B+%7C+Python; Quantum+mechanics+%26+Quantum+computing+intrigue+me;Sometimes+I+wonder+if+I'm+a+Boltzmann+brain;Aiming+for+a+life+among+galaxies+%26+supernovae" />
 </p>
 
 <!-- Name -->
