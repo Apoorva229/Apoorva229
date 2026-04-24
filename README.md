@@ -15,7 +15,8 @@
   ✦ fuzzy robot drifting through code & cosmos ✦
 </p>
 I'm an astrophysics, computer science and quantum mechanics(though hardly understand it) enthusiast who thinks of herself as the future universe explorer. A backend developer, reader, poet, and sometimes convinced I’m a Boltzmann brain. My main goal is to spend life among galaxies, supernovae, and unanswered questions and live in Scotland for some time. 
-- 🔭 My Tech Assets(The fun stuff):
+
+#**🔭 My Tech Assets(The fun stuff):**
 > I have proficiency in backend development, including RESTful API design, scalable server-side application architecture. I’ve built web application backends, real-time systems, and robotics-related systems, and I’m experienced with Node.js, C, C++, and Python, along with frontend technologies like HTML, CSS, and TypeScript.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
