@@ -39,6 +39,7 @@ I'm an astrophysics, computer science and quantum mechanics(though hardly unders
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p> 
+
 - **🧰 Tech Stack:**
 
 <p align="center">
@@ -52,9 +53,11 @@ I'm an astrophysics, computer science and quantum mechanics(though hardly unders
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
+
 - **⚡Facts about me:**
 I wanted to travel the universe when I was 9, and I still haven’t quite let go of that idea.
 I enjoy playing karate.
 I read a lot and sometimes convince myself, I’m inside a book.
+
 - **Connect with me:**
 apoorvadubeyand@gmail.com
