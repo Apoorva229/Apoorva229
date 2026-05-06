@@ -23,7 +23,7 @@ I'm an astrophysics, computer science and quantum mechanics(though hardly unders
 - **⚙️System and Languages I use:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva229&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apoorva229&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
