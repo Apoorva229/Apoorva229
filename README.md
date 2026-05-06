@@ -22,7 +22,7 @@ I'm an astrophysics, computer science and quantum mechanics(though hardly unders
 > Looking to collaborate on web development, backend development, and fun projects in physics and astronomy. I enjoy building things that combine curiosity, problem-solving, and a bit of exploration beyond the obvious.
 - **⚙️System and Languages I use:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva229&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva229&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -38,9 +38,7 @@ I'm an astrophysics, computer science and quantum mechanics(though hardly unders
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
 - **🧰 Tech Stack:**
 
 <p align="center">
